@@ -5,4 +5,7 @@ table,td,th,caption{
 th,td,ul,table,li{
 	width:100%;
 }
+#n{
+	color:rgba (178, 151, 202, 1)
+}
 /* Your CSS Code here. */
