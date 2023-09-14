@@ -5,7 +5,12 @@ table,td,th,caption{
 th,td,ul,table,li{
 	width:100%;
 }
-#n{
-	color:rgba (178, 151, 202, 1)
+#n {
+	color:#653196;
+	
+}
+#htm{
+	background:black;
+	color:white
 }
 /* Your CSS Code here. */
