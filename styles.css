@@ -6,6 +6,10 @@ table{
 	width:100%;
 }
 #n{
-	color:rgba (178, 151, 202, 1)
+	color:#653196
+}
+#htm{
+	background:black;
+	color:white;
 }
 /* Your CSS Code here. */
